@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+    .table {
+        padding: 10px;
+    }
+
+    .card {
+        font-size: 14px;
+    }.tr{
+        padding: 10px;
+    }
+}
